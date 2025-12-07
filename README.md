@@ -32,7 +32,7 @@ Every file is a **small, focused program** that demonstrates one key concept:
 The goal is to build a strong foundation and gradually move toward more advanced Java development.
 
 ---
-
+```
 ## 📂 Project Structure
 
 src/
@@ -45,7 +45,7 @@ src/
 ├── Print1toN.java
 ├── EvenNumbers.java
 └── Factorial.java
-
+```
 
 Each file can be compiled and run independently.
 
@@ -132,11 +132,10 @@ javac Palindrome.java
 java Palindrome
 ```
 
-🔧 Requirements
+🔧 System
 
-Java 11+ (recommended Java 17)
-
-Any IDE or console environment (IntelliJ, VS Code, Eclipse)
+Java 17
+IntelliJ IDEA 2025.2.5
 
 📝 License
 
@@ -147,4 +146,4 @@ This project is licensed under the MIT License — feel free to use the code for
 
 Made with passion while learning Java ❤️
 
-</div> ```
+</div>
