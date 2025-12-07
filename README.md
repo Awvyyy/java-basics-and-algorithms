@@ -49,7 +49,7 @@ src/
 
 Each file can be compiled and run independently.
 
----
+
 
 ## 💡 Included Tasks (with explanations)
 
@@ -83,7 +83,7 @@ Prints all even numbers from 1 to N.
 ### 🔹 **Factorial**
 Computes `n!` using iterative multiplication.
 
----
+
 
 ## 🧠 Skills Gained
 
