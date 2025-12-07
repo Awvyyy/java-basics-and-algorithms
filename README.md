@@ -1,90 +1,122 @@
-# 📘 Java Basics & Algorithms
+<div align="center">
 
-This repository contains my learning projects and algorithmic exercises written in Java.
-Each file represents a separate mini-program that practices core Java concepts:
+# 🚀 Java Basics & Algorithms  
 
-input/output
-conditions (if / else if / else)
-loops (for, while)
-working with digits
-number processing
-basic algorithms
-clean code structure
+### Learning the fundamentals of Java through clean, structured algorithmic exercises.
 
-The goal of this repository is to build a strong foundation in Java through solving practical tasks.
 
-📂 Project Structure
+
+
+---
+
+![Java](https://img.shields.io/badge/Java-17+-red?style=flat-square&logo=openjdk)
+![Algorithms](https://img.shields.io/badge/Algorithms-Practice-blue?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)
+![License](https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square)
+
+</div>
+
+---
+
+## 📘 About This Repository
+
+This repository contains my personal collection of **Java learning exercises**.  
+Every file is a **small, focused program** that demonstrates one key concept:
+
+- loops  
+- conditions  
+- working with numbers  
+- algorithm design  
+- clean coding practices  
+
+The goal is to build a strong foundation and gradually move toward more advanced Java development.
+
+---
+
+## 📂 Project Structure
+
 src/
- ├── Palindrome.java
- ├── DigitSum.java
- ├── EvenOddDigits.java
- ├── MaxMinAverage.java
- ├── PositiveNegativeZero.java
- ├── FizzBuzz.java
- ├── Print1toN.java
- ├── EvenNumbers.java
- └── Factorial.java
-
-Each Java file includes a complete solution that can be compiled and executed independently.
+├── Palindrome.java
+├── DigitSum.java
+├── EvenOddDigits.java
+├── MaxMinAverage.java
+├── PositiveNegativeZero.java
+├── FizzBuzz.java
+├── Print1toN.java
+├── EvenNumbers.java
+└── Factorial.java
 
 
-📌 Included Tasks
-🔹 Palindrome
-Checks whether a number reads the same forwards and backwards.
+Each file can be compiled and run independently.
 
-🔹 DigitSum
-Calculates the sum of all digits in a number.
+---
 
-🔹 EvenOddDigits
-Counts how many digits inside a number are even or odd.
+## 💡 Included Tasks (with explanations)
 
-🔹 MaxMinAverage
-Reads N numbers and finds their maximum, minimum, and average.
+### 🔹 **Palindrome**
+Checks if a number reads the same forward and backward.
 
-🔹 PositiveNegativeZero
-Counts how many of the entered numbers are positive, negative, or zero.
+### 🔹 **DigitSum**
+Extracts digits using `% 10` and finds their total.
 
-🔹 FizzBuzz
-Classic programming task: prints “Fizz”, “Buzz” or “FizzBuzz” depending on divisibility.
+### 🔹 **EvenOddDigits**
+Counts even vs. odd digits using modular arithmetic.
 
-🔹 Print1toN
-Prints all numbers from 1 to N using a loop.
+### 🔹 **MaxMinAverage**
+Processes N numbers and finds:
+- maximum  
+- minimum  
+- average  
 
-🔹 EvenNumbers
+### 🔹 **PositiveNegativeZero**
+Classifies input numbers into 3 categories.
+
+### 🔹 **FizzBuzz**
+Classic programming challenge using modular conditions.
+
+### 🔹 **Print1toN**
+Outputs numbers using a simple `for` loop.
+
+### 🔹 **EvenNumbers**
 Prints all even numbers from 1 to N.
 
-🔹 Factorial
-Computes the factorial of a number using iterative multiplication.
+### 🔹 **Factorial**
+Computes `n!` using iterative multiplication.
 
-🧠 Purpose of This Repository
-This repository documents my progress while learning Java.
-It demonstrates understanding of:
+---
 
-basic syntax
-algorithmic thinking
-number manipulation
-loop control
-modular task-solving
-writing clean, readable code
-The exercises here form the foundation for more advanced Java topics such as arrays, functions, classes, and object-oriented programming.
+## 🧠 Skills Gained
 
-▶️ How to Run
-Compile and run any file using:
+By completing these exercises, I learned:
 
+✔ Using `Scanner` for user input  
+✔ Writing loops (`for`, `while`)  
+✔ Extracting digits with arithmetic  
+✔ Algorithmic thinking  
+✔ Handling edge cases  
+✔ Writing clean, readable Java code  
+✔ Basic problem-solving patterns  
+✔ Understanding integer operations `%`, `/`, etc.
+
+---
+
+## 🛣 Roadmap
+
+Planned future additions:
+
+- ⏳ Array algorithms  
+- ⏳ Sorting (Bubble, Selection, Insertion)  
+- ⏳ Searching (Linear, Binary)  
+- ⏳ String manipulation algorithms  
+- ⏳ Recursion basics  
+- ⏳ OOP: Classes, Objects, Methods  
+- ⏳ Mini-projects (Calculator, Guess-the-Number Game, etc.)
+
+---
+
+## ▶️ How to Run
+
+Compile any file using:
+
+```sh
 javac FileName.java
-java FileName
-
-Example:
-
-javac Palindrome.java
-java Palindrome
-
-
-🚀 Next Steps
-In future updates, the repository may include:
-array-based algorithms
-sorting
-searching
-recursion
-object-oriented programming exercises
-project-style mini-apps
