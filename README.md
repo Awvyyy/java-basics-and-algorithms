@@ -117,19 +117,20 @@ Planned future additions:
 ## ▶️ How to Run
 
 Compile any file using:
-
 ```sh
 javac FileName.java
+```
 
 Run with:
-
+```sh
 java FileName
-
+```
 
 Example:
-
+```sh
 javac Palindrome.java
 java Palindrome
+```
 
 🔧 Requirements
 
