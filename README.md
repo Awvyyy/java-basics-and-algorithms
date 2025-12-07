@@ -120,3 +120,30 @@ Compile any file using:
 
 ```sh
 javac FileName.java
+
+Run with:
+
+java FileName
+
+
+Example:
+
+javac Palindrome.java
+java Palindrome
+
+🔧 Requirements
+
+Java 11+ (recommended Java 17)
+
+Any IDE or console environment (IntelliJ, VS Code, Eclipse)
+
+📝 License
+
+This project is licensed under the MIT License — feel free to use the code for learning purposes.
+
+<div align="center">
+⭐ If you like this project, consider giving the repo a star!
+
+Made with passion while learning Java ❤️
+
+</div> ```
