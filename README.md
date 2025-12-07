@@ -32,9 +32,9 @@ Every file is a **small, focused program** that demonstrates one key concept:
 The goal is to build a strong foundation and gradually move toward more advanced Java development.
 
 ---
-```
-## 📂 Project Structure
 
+## 📂 Project Structure
+```
 src/
 ├── Palindrome.java
 ├── DigitSum.java
