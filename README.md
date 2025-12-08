@@ -36,15 +36,18 @@ The goal is to build a strong foundation and gradually move toward more advanced
 ## 📂 Project Structure
 ```
 src/
-├── Palindrome.java
 ├── DigitSum.java
-├── EvenOddDigits.java
-├── MaxMinAverage.java
-├── PositiveNegativeZero.java
-├── FizzBuzz.java
-├── Print1toN.java
 ├── EvenNumbers.java
-└── Factorial.java
+├── EvenOddDigits.java
+├── Factorial.java
+├── FizzBuzz.java
+├── LargestDigit.java
+├── PositiveNegativeZero.java
+├── MaxMinAverage.java
+├── Palindrome.java
+├── PositiveNegativeZero.java
+├── Print1toN.java
+└── SmallestDigit.java
 ```
 
 Each file can be compiled and run independently.
