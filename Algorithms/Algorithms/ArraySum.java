@@ -1,4 +1,4 @@
-// Create array and find a sum of numbers
+package Algorithms;// Create array and find a sum of numbers
 
 
 public class ArraySum {

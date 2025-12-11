@@ -1,4 +1,4 @@
-//Find max value and index of max value
+package Algorithms;//Find max value and index of max value
 
 
 

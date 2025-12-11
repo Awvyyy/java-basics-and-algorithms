@@ -1,4 +1,4 @@
-// find digit amount, digit sum and max num
+package Algorithms;// find digit amount, digit sum and max num
 
 
 

@@ -1,4 +1,4 @@
-// Find second-biggest number in array
+package Algorithms;// Find second-biggest number in array
 
 
 

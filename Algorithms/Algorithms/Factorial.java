@@ -1,18 +1,21 @@
-// Print numbers from 1 to N
+package Algorithms;// Find factorial of number N
 
 
 import java.util.Scanner;
 
-public class Print1toN {
+public class Factorial {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
         System.out.println("Enter N:");
         int n = input.nextInt();
 
+        int result = 1;
         for (int i = 1; i <= n; i++) {
-            System.out.println(i);
+            result *= i;
         }
+
+        System.out.println("Algorithms.Factorial = " + result);
 
         input.close();
     }

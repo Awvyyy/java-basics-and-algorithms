@@ -1,4 +1,4 @@
-// Create array and find min and max value
+package Algorithms;// Create array and find min and max value
 
 
 

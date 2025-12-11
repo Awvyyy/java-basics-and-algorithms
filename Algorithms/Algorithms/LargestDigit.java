@@ -1,4 +1,4 @@
-/// Find largest digit in number
+package Algorithms; /// Find largest digit in number
 
 
 import java.util.Scanner;

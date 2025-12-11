@@ -1,4 +1,4 @@
-// +-*/ calculator
+package Algorithms;// +-*/ calculator
 
 
 import java.util.Scanner;

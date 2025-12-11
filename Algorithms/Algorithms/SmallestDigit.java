@@ -1,4 +1,4 @@
-// Find the smallest digit in a number but skip zeros
+package Algorithms;// Find the smallest digit in a number but skip zeros
 
 import java.util.Scanner;
 

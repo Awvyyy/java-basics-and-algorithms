@@ -1,4 +1,4 @@
-// Find amount of above average numbers in array
+package Algorithms;// Find amount of above average numbers in array
 
 
 

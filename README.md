@@ -36,18 +36,18 @@ The goal is to build a strong foundation and gradually move toward more advanced
 ## 📂 Project Structure
 ```
 src/
-├── DigitSum.java
-├── EvenNumbers.java
-├── EvenOddDigits.java
-├── Factorial.java
-├── FizzBuzz.java
-├── LargestDigit.java
-├── PositiveNegativeZero.java
-├── MaxMinAverage.java
-├── Palindrome.java
-├── PositiveNegativeZero.java
-├── Print1toN.java
-└── SmallestDigit.java
+├── Algorithms.DigitSum.java
+├── Algorithms.EvenNumbers.java
+├── Algorithms.EvenOddDigits.java
+├── Algorithms.Factorial.java
+├── Algorithms.FizzBuzz.java
+├── Algorithms.LargestDigit.java
+├── Algorithms.PositiveNegativeZero.java
+├── Algorithms.MaxMinAverage.java
+├── Algorithms.Palindrome.java
+├── Algorithms.PositiveNegativeZero.java
+├── Algorithms.Print1toN.java
+└── Algorithms.SmallestDigit.java
 ```
 
 Each file can be compiled and run independently.
@@ -56,34 +56,34 @@ Each file can be compiled and run independently.
 
 ## 💡 Included Tasks (with explanations)
 
-### 🔹 **Palindrome**
+### 🔹 **Algorithms.Palindrome**
 Checks if a number reads the same forward and backward.
 
-### 🔹 **DigitSum**
+### 🔹 **Algorithms.DigitSum**
 Extracts digits using `% 10` and finds their total.
 
-### 🔹 **EvenOddDigits**
+### 🔹 **Algorithms.EvenOddDigits**
 Counts even vs. odd digits using modular arithmetic.
 
-### 🔹 **MaxMinAverage**
+### 🔹 **Algorithms.MaxMinAverage**
 Processes N numbers and finds:
 - maximum  
 - minimum  
 - average  
 
-### 🔹 **PositiveNegativeZero**
+### 🔹 **Algorithms.PositiveNegativeZero**
 Classifies input numbers into 3 categories.
 
-### 🔹 **FizzBuzz**
+### 🔹 **Algorithms.FizzBuzz**
 Classic programming challenge using modular conditions.
 
-### 🔹 **Print1toN**
+### 🔹 **Algorithms.Print1toN**
 Outputs numbers using a simple `for` loop.
 
-### 🔹 **EvenNumbers**
+### 🔹 **Algorithms.EvenNumbers**
 Prints all even numbers from 1 to N.
 
-### 🔹 **Factorial**
+### 🔹 **Algorithms.Factorial**
 Computes `n!` using iterative multiplication.
 
 ---
@@ -113,7 +113,7 @@ Planned future additions:
 - ⏳ String manipulation algorithms  
 - ⏳ Recursion basics  
 - ⏳ OOP: Classes, Objects, Methods  
-- ⏳ Mini-projects (Calculator, Guess-the-Number Game, etc.)
+- ⏳ Mini-projects (Algorithms.Calculator, Guess-the-Number Game, etc.)
 
 ---
 
@@ -131,8 +131,8 @@ java FileName
 
 Example:
 ```sh
-javac Palindrome.java
-java Palindrome
+javac Algorithms.Palindrome.java
+java Algorithms.Palindrome
 ```
 
 🔧 System

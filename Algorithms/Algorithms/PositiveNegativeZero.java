@@ -1,4 +1,4 @@
-// Number classification
+package Algorithms;// Number classification
 // is number positive, negative or zero
 
 

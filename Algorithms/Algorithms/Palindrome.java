@@ -1,4 +1,4 @@
-// Goal - check if number is palindrome or not
+package Algorithms;// Goal - check if number is palindrome or not
 
 
 

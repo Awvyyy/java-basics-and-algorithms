@@ -1,4 +1,4 @@
-// Create array and find avg num value
+package Algorithms;// Create array and find avg num value
 
 
 

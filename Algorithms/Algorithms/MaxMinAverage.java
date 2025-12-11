@@ -1,4 +1,4 @@
-// Find biggest, smallest and average value
+package Algorithms;// Find biggest, smallest and average value
 
 
 import java.util.Scanner;

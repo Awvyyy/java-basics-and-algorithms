@@ -1,4 +1,4 @@
-// Move array by 1 to the right
+package Algorithms;// Move array by 1 to the right
 
 
 

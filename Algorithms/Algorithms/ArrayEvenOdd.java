@@ -1,4 +1,4 @@
-// Count array even and odd numbers
+package Algorithms;// Count array even and odd numbers
 
 
 public class ArrayEvenOdd {

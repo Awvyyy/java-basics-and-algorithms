@@ -1,4 +1,4 @@
-// Print only even numbers from 1 to N
+package Algorithms;// Print only even numbers from 1 to N
 
 
 import java.util.Scanner;
